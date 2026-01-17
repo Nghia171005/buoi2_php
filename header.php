@@ -51,6 +51,10 @@
         <a href="form_get.php">Tìm kiếm</a>
         <a href="form_post.php">Đăng ký SV</a>
         <a href="edit_student.php">Sửa thông tin</a>
+        <a href="dashboard.php">quản trị</a>
+        <a href="cart.php">giỏ hàng</a>
+        <a href="login.php">đăng nhập</a>
+        <a href="logout.php">đăng xuất</a>
     </nav>
 </header>
 
